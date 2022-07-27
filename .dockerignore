@@ -1,0 +1,14 @@
+
+
+.gitignore
+*.yml
+*.json
+.github
+
+CODEOWNERS
+Dockerfile
+README.md
+test_main.py
+
+examples
+venv
